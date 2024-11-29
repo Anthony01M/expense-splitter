@@ -1,6 +1,6 @@
 # Expense Splitter
 
-This project is a simple implementation of an expense splitter where the user can input expenses and split them among friends, with individual share calculations.
+This project is a simple implementation of an expense splitter where the user can input expenses and split them among friends, with individual share calculations. The application also includes features to display particle animations in the background for visual enhancement.
 
 ## Features
 
@@ -8,12 +8,14 @@ This project is a simple implementation of an expense splitter where the user ca
 - Calculate the share each friend needs to pay.
 - Display the result in a formatted manner.
 - Background color changes periodically for a dynamic visual effect.
+- Particle animation background.
 
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+- [Particles.js](https://vincentgarreau.com/particles.js/) for particle animation
 
 ## Installation
 
